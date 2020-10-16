@@ -1,6 +1,7 @@
 #include "pch.h"
 #include "CppUnitTest.h"
 #include "../../Tutu1Lab/Tutu1Lab/list.h"
+#include "C:\Users\Dkvit\source\repos\АлгСтр_данных_лб1\АлгСтр_данных_лб1/LinkedList.cpp"
 
 using namespace Microsoft::VisualStudio::CppUnitTestFramework;
 
