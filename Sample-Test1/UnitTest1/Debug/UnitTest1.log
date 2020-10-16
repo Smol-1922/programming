@@ -1,0 +1,6 @@
+﻿  UnitTest1.cpp
+C:\Users\HomeUser\source\repos\Tutu1Lab\Tutu1Lab\list.inl(210,9): warning C4101: itIn: неиспользованная локальная переменная
+C:\Users\HomeUser\source\repos\Tutu1Lab\Tutu1Lab\list.inl(206): message : во время компиляции функции-члена класс шаблон "int List<int>::find_first(List<int>)"
+C:\Users\HomeUser\source\repos\Sample-Test1\UnitTest1\UnitTest1.cpp(121): message : выполняется компиляция ссылки на экземпляр шаблон функции "int List<int>::find_first(List<int>)"
+C:\Users\HomeUser\source\repos\Sample-Test1\UnitTest1\UnitTest1.cpp(15): message : выполняется компиляция ссылки на экземпляр класс шаблон функции "List<int>"
+  UnitTest1.vcxproj -> C:\Users\HomeUser\source\repos\Sample-Test1\Debug\UnitTest1.dll
